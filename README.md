@@ -1,6 +1,6 @@
 # `android_liblog-sys`
 
-[![crates.io](https://img.shields.io/crates/v/clang-sys.svg)](https://crates.io/crates/clang-sys)
+[![crates.io](https://img.shields.io/crates/v/android_liblog-sys.svg)](https://crates.io/crates/android_liblog-sys)
 
 Native bindings to `liblog` on Android.
 
