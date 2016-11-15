@@ -1,0 +1,7 @@
+[package]
+name = "android_liblog-sys"
+version = "0.1.0"
+authors = ["Saleem Rashid <dev@saleemrashid.com>"]
+
+[dependencies]
+libc = "*"
