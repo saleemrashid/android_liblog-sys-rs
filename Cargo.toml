@@ -1,6 +1,6 @@
 [package]
 name = "android_liblog-sys"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["Saleem Rashid <dev@saleemrashid.com>"]
 
 repository = "https://github.com/saleemrashid/android_liblog-sys-rs"
@@ -11,6 +11,9 @@ readme = "README.md"
 description = """
 Native bindings to liblog on Android
 """
+
+[badges]
+travis-ci = { repository = "saleemrashid/android_liblog-sys-rs" }
 
 [dependencies]
 libc = "0.2"
